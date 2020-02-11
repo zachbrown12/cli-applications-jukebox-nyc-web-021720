@@ -62,7 +62,7 @@ def run(songs)
      play(songs)
    when juke == "exit"
      exit_jukebox
-     exit
+     break
    end
   end
 end
