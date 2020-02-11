@@ -49,8 +49,8 @@ def exit_jukebox
 end
 
 def run(songs)
-  i = 0
-  while i == 0
+  x = 0
+  while x == 0
   puts "Please enter a command:"
   juke = gets.strip
   case
